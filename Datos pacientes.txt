@@ -1,0 +1,11 @@
+nombre,edad,peso_kg,estatura_m,imc
+Ana Gómez,34,58,1.65,21.30
+Luis Pérez,45,82,1.78,25.88
+María Torres,28,50,1.60,19.53
+Carlos Ruiz,51,95,1.72,32.11
+Laura Díaz,39,63,1.68,22.32
+Pedro Sánchez,26,68,1.75,22.20
+Sofía Ramírez,31,55,1.62,20.96
+Jorge Castro,48,88,1.80,27.16
+Elena Vargas,22,52,1.58,20.83
+Miguel Ortiz,57,102,1.74,33.68
